@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VDU Deportes - Información del Valle de Uco</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        .section p {
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>VDU Deportes</h1>
+    </header>
+
+    <section class="section">
+        <h2>Información del Valle de Uco</h2>
+        <p>
+            Bienvenido a VDU Deportes, tu fuente confiable de información deportiva del Valle de Uco. Aquí encontrarás las últimas noticias, resultados de partidos, entrevistas exclusivas y mucho más sobre deportes locales e internacionales.
+        </p>
+    </section>
+
+    <section class="section">
+        <h2>Noticias Recientes</h2>
+        <p>
+            [Aquí puedes incluir una lista de noticias recientes sobre deportes en el Valle de Uco. Por ejemplo: resultados de partidos locales, próximos eventos deportivos, etc.]
+        </p>
+    </section>
+
+    <section class="section">
+        <h2>Calendario de Eventos</h2>
+        <p>
+            [Aquí puedes incluir un calendario con los eventos deportivos próximos en el Valle de Uco. Puedes utilizar una tabla o listado detallado de eventos.]
+        </p>
+    </section>
+
+    <footer>
+        <p style="text-align: center;">© 2024 VDU Deportes. Todos los derechos reservados.</p>
+    </footer>
+</div>
+
+</body>
+</html>
